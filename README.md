@@ -1,2 +1,2 @@
 # calculadora-python
-Projeto básico pessoal de uma calculadora em py
+Projeto básico de uma calculadora em py com interface gráfica, usando a biblioteca tkinter
